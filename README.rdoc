@@ -1,6 +1,5 @@
 == README
-taken from http://tutorials.jumpstartlab.com/projects/blogger.html
-
+Simple blogger with Ruby on Rails.
 
 
 
